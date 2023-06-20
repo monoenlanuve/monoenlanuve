@@ -2,7 +2,7 @@
    --------------------------------
       
    
-## 👀 Estoy interesado en aprener JAVA
+## 👀 Estoy interesado en aprender JAVA
 
 En estos momentos estoy realizando la entrega final de un curso de JAVA INICIAL que estoy ursando en CODERHOUSE.
  Tengo publicado un ABM de cliente y Producto en una API REST 
